@@ -1,0 +1,29 @@
+_repo: Armour--amp--Weapons_41676
+_version: 0.1.0
+alternative_title: Armour and Weapons
+covers:
+- cover_type: archival
+  image_path: 41676-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ffoulkes, Charles John
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '41297'
+    url: http://www.gutenberg.org/2009/agents/41297
+description: ''
+gutenberg_issued: '2012-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41676'
+  lccn: '10008291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weapons'
+- !lcc 'U'
+- !lcsh 'Armor'
+title: Armour & Weapons
+url: http://www.gutenberg.org/ebooks/41676
